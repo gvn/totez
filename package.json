@@ -1,0 +1,15 @@
+{
+  "name": "totez",
+  "bin": { "totez" : "./tot.js" },
+  "version": "1.0.0",
+  "description": "Grab the total raised money from the Mozilla Foundations end of year campaign.",
+  "main": "tot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@gvn",
+  "license": "MPL",
+  "dependencies": {
+    "request": "^2.49.0"
+  }
+}
