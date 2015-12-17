@@ -6,8 +6,7 @@ CLI for Mofo EOY total donations.
 
     git clone https://github.com/gvn/totez.git
     cd totez
-    npm install
-    npm link` (or `sudo npm link`)
+    npm install -g
 
 ## To run:
 
